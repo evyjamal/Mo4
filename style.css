@@ -1,0 +1,18 @@
+body {
+  background: url(img/bunga.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+h1 {
+  background-color: rgb(172, 0, 126);
+  text-align: center;
+  color: white;
+}
+h2 {
+  color: red;
+  font-size: 25px;
+}
+p {
+  margin-left: 50px;
+  color: rgb(255, 251, 0);
+  font-size: 24px;
+}
